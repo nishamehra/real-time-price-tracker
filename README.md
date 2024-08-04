@@ -25,7 +25,7 @@ This project is a full-stack application that fetches real-time data for stocks 
 
 ### Prerequisites
 
-- Node.js and npm installed on your machine
+- Node.js (v14 or later) and npm installed on your machine
 - MongoDB installed and running
 
 ### How to install and run the repo
