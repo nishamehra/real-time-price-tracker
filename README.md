@@ -28,7 +28,7 @@ This project is a full-stack application that fetches real-time data for stocks 
 - Node.js and npm installed on your machine
 - MongoDB installed and running
 
-### how to install and run the repo
+### How to install and run the repo
 
 1. **Backend Setup:**
 
