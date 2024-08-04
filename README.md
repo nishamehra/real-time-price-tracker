@@ -37,6 +37,6 @@ This project is a full-stack application that fetches real-time data for stocks 
    - The backend server will run on http://localhost:5000
 
 2. **Frontend Setup:**
-   - Install backend dependencies: npm install
+   - Install frontend dependencies: npm install
    - Start the frontend development server: npm start
    - The frontend application will run on http://localhost:3000
